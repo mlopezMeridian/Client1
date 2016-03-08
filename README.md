@@ -1,2 +1,2 @@
-# Client1
+# Full Featured
 Default Full Featured Storefront
