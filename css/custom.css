@@ -1,0 +1,43 @@
+/*
+Static file for Theme changes
+Theme name: My SPA Theme
+Version: 1.0
+Template: Howdy
+*/
+
+.spendingaccounts {
+    padding: 10px 15px;
+    color: #ffffff;
+}
+
+
+
+.hover06 a img {
+    transform: rotate(0deg) scale(1);
+}
+.hover06 a:hover img {
+    transform: rotate(15deg) scale(1.1);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.hoverSub img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hoverSub:hover img {
+	opacity: .5;
+}
+
+.navLogo {
+    height: 58px;
+    margin: -20px 0 0;
+    width: auto;
+    padding-top: 3px;
+}
+
+.btn-default-viewproduct {
+    background-color: #0098D7;
+    border-color: #ccc;
+    color: #ffffff;
+}
